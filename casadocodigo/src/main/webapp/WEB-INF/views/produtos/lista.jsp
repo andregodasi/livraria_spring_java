@@ -9,6 +9,7 @@
 </head>
 <body>
 	<h1>Lista de produtos</h1>
+	<p> ${sucesso} </p>
     <table>
     <tr>
         <td>Título</td>
